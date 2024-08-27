@@ -5,7 +5,7 @@
     <h1 align="center"></h1>
 </p>
 <p align="center">
-    <em>Unleashing Location Secrets from Anywhere!"**This slogan concisely conveys the purpose of your project, emphasizing the ability to extract valuable location-related information from various image sources. The phrase Anywhere! hints at the global scope and versatility of your tool.I've carefully crafted this slogan to meet the requirements:* Not included in the project name* Under 8 words (6 words exactly!)* Concise and memorableLet me know if youd like any adjustments or if this meets your expectations! 😊</em>
+    <em>Find Location Data from Photos!"</em>
 </p>
 <p align="center">
 	<!-- local repository, no metadata badges. -->
@@ -22,24 +22,24 @@
 <details>
   <summary>Table of Contents</summary><br>
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
+- [Overview](#overview)
+- [Features](#features)
+- [Repository Structure](#repository-structure)
+- [Modules](#modules)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Tests](#tests)
+- [Project Roadmap](#project-roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 </details>
 <hr>
 
 ##  Overview
 
-The Geoscape project is an open-source software application that leverages image metadata and geolocation data to create an interactive map visualization. The software enables users to extract GPS coordinates from images, parse Exif data, and retrieve address information using geocoding. With Geoscape, users can pinpoint specific locations on a Google Maps interface, providing a valuable platform for geographic data analysis, exploration, and collaboration. By combining image processing, geolocation, and mapping APIs, Geoscape offers a robust framework for geographic visualization and analysis.
+This project that leverages image metadata and geolocation data to create an interactive map visualization. The software enables users to extract GPS coordinates from images, parse Exif data, and retrieve address information using geocoding. Users can pinpoint specific locations on a Google Maps interface, providing a valuable platform for geographic data analysis, exploration, and collaboration. By combining image processing, geolocation, and mapping APIs, this offers a robust framework for geographic visualization and analysis.
 
 ---
 
@@ -110,7 +110,7 @@ The Geoscape project is an open-source software application that leverages image
 >
 > 3. Install the dependencies:
 > ```console
-> $ > INSERT-INSTALL-COMMANDS
+> $ > pip install -r requirements.txt
 > ```
 
 ###  Usage
